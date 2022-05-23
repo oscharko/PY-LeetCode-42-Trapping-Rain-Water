@@ -14,3 +14,8 @@ Given n non-negative integers representing an elevation map where the width of e
 ## Example 2:
 - Input: height = [4,2,0,3,2,5]
 - Output: 9
+
+## first Solution
+[LeetCode](https://leetcode.com/submissions/detail/705669993/)
+
+[![Run on Repl.it](https://repl.it/badge/github/oscharko/PY-LeetCode-42-Trapping-Rain-Water)](https://replit.com/@oscharko/PY-LeetCode-42-Trapping-Rain-Water)
